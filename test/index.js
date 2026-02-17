@@ -8,7 +8,7 @@
 
 import { expect } from 'chai';
 
-import identify from '../lib/index.js';
+import identify from '../index.js';
 
 describe('@trenskow/identify', () => {
 

@@ -23,12 +23,12 @@
 		"test": "node ./node_modules/mocha/bin/mocha.js ./test/index.js"
 	},
 	"devDependencies": {
-		"@eslint/compat": "^2.0.3",
+		"@eslint/compat": "^2.0.5",
 		"@eslint/eslintrc": "^3.3.5",
 		"@eslint/js": "^10.0.1",
 		"chai": "^6.2.2",
-		"eslint": "^10.1.0",
-		"globals": "^17.4.0",
+		"eslint": "^10.3.0",
+		"globals": "^17.6.0",
 		"mocha": "^11.7.5"
 	}
 }

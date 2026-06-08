@@ -1,6 +1,6 @@
 {
 	"name": "@trenskow/identify",
-	"version": "0.1.6",
+	"version": "0.1.7",
 	"description": "A very small library for converting strings in to ascii-only identifiers.",
 	"keywords": [
 		"id",
